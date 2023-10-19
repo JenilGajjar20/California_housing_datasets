@@ -24,12 +24,8 @@ Please note that this repository is not open for external contributions. It is i
 
 If you come across any issues with the existing solutions, have suggestions for improvements, or want to request solutions for specific problems, you can open an issue. Make sure to include a clear and concise description of the problem or suggestion. -->
 
-## Acknowledgements
-
-We'd like to express our gratitude to the open-source community and the creators of various machine learning and deep learning libraries that make this work possible.
-
 ---
 
-We hope you find this repository useful in your journey of understanding and implementing machine learning and deep learning algorithms. If you have any questions or suggestions, please don't hesitate to reach out.
+I hope you find this repository useful in your journey of understanding and implementing machine learning and deep learning algorithms. If you have any questions or suggestions, please don't hesitate to reach out.
 
 Happy coding! 🚀
